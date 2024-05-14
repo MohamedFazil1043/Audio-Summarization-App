@@ -1,6 +1,6 @@
 import streamlit as st
 #import pydub
-from pydub import AudioSegment
+#from pydub import AudioSegment
 import tempfile
 import os
 import google.generativeai as genai
