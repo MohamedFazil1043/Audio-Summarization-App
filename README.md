@@ -2,6 +2,7 @@
 
 This project leverages Google's Gemini 1.5 multimodal AI model to build an audio summarization application capable of processing and summarizing extensive audio files. It supports various audio formats and utilizes Streamlit for a user-friendly interface.
 
+<img width="480" alt="image" src="https://github.com/MohamedFazil1043/Audio-Summarization-App/assets/158436064/cda7149b-84d4-4df7-94a4-ac3fb9b4fc65">
 ## Features
 
 - **Multimodal Support:** Handles audio, text, and visual inputs seamlessly with Gemini 1.5.
@@ -29,4 +30,5 @@ Upload your audio file in WAV or MP3 format through the Streamlit interface. The
 ## Contributing
 
 Feel free to fork this project, submit pull requests, or suggest new features or improvements by opening an issue.
+
 
